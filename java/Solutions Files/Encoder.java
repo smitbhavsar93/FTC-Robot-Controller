@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.DcMotorSimple;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
 /**
- * Fully Autonomous FTC program WITH ENCODERS
+ * Fully Autonomous FTC driving / shooting program WITH ENCODERS
  */
 
 @Autonomous(name = "Smit's Encoder", group = "Linear Opmode")
